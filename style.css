@@ -1,0 +1,15 @@
+html{
+    background-color:bisque;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Pic{
+    width: 400px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
